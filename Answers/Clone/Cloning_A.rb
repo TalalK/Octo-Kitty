@@ -1,0 +1,1 @@
+Cloning is copying a repository, either from github or another server.

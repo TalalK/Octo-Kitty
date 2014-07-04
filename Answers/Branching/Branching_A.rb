@@ -1,0 +1,1 @@
+It allows us to easily see what commits are unique to which branches so we know what we're missing and what we would be merging in if we were to do a merge.

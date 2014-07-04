@@ -1,0 +1,1 @@
+Upstream is basically pushing a file as its counter part Downstream is pulling.
